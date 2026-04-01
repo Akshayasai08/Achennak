@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akshaya Chennakeshava</h1>
 <h3 align="center">You become what you believe!!</h3>
 
-- 👯 I’m looking to collaborate on **Web Development Projects,Backend or Full stack Projects**
+- 👯 I’m seeking **Senior Software Developer** roles with a focus on Cloud, Backend, and Full Stack projects
 
 
-- 📫 How to reach me **chennakeshava.s@northeastern.edu or +18578914362** 
+- 📫 How to reach me **akshayachennakeshava.jobsearch@gmail.com or +18578914362** 
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1EOZGXrlcnfWMgMJ71WYjjDYFFvBVv6mSXF2JIC_PsE8/edit
+- 📄 Know about my experiences https://docs.google.com/document/d/1NGAuzT6Cg1jI-ef3dSBFtlg9UZK5V98x/edit?usp=sharing&ouid=112430310109529210269&rtpof=true&sd=true
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
